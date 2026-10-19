@@ -1,0 +1,1483 @@
+{
+ "type": "business",
+ "requestId": "1792326290506003-1184962297-addrs-upper-yp-95",
+ "index": 0,
+ "analyticsId": "0",
+ "title": "Точка Сохранения",
+ "description": "Юрловский пр., 5, Москва",
+ "address": "Юрловский пр., 5, Москва",
+ "coordinates": [
+  37.625905,
+  55.865436
+ ],
+ "displayCoordinates": [
+  37.625905,
+  55.865436
+ ],
+ "bounds": [
+  [
+   37.621606,
+   55.863126
+  ],
+  [
+   37.629816,
+   55.867743
+  ]
+ ],
+ "uri": "ymapsbm1://org?oid=166512861070",
+ "logId": "dHlwZT1iaXpmaW5kZXI7aWQ9MTY2NTEyODYxMDcw",
+ "requestSerpId": "1792326290506003-1184962297-addrs-upper-yp-95",
+ "id": "166512861070",
+ "metro": [
+  {
+   "id": "station__9858869",
+   "name": "Отрадное",
+   "distance": "1,5 км",
+   "distanceValue": 1502.72,
+   "coordinates": [
+    37.606071607,
+    55.864230027
+   ],
+   "type": "metro",
+   "color": "#999999"
+  },
+  {
+   "id": "station__9858900",
+   "name": "Свиблово",
+   "distance": "2,38 км",
+   "distanceValue": 2384.62,
+   "coordinates": [
+    37.65106237,
+    55.854552815
+   ],
+   "type": "metro",
+   "color": "#f28b24"
+  },
+  {
+   "id": "station__9858789",
+   "name": "Бибирево",
+   "distance": "2,59 км",
+   "distanceValue": 2588.79,
+   "coordinates": [
+    37.60482857,
+    55.883392294
+   ],
+   "type": "metro",
+   "color": "#999999"
+  }
+ ],
+ "stops": [
+  {
+   "id": "stop__9647244",
+   "name": "Юрловский проезд",
+   "distance": "73 м",
+   "distanceValue": 73.2072,
+   "coordinates": [
+    37.625887245,
+    55.865891388
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9641757",
+   "name": "Улица Мусоргского, 11",
+   "distance": "271 м",
+   "distanceValue": 271.758,
+   "coordinates": [
+    37.625723053,
+    55.863727265
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9641803",
+   "name": "Северный бульвар",
+   "distance": "480 м",
+   "distanceValue": 477.808,
+   "coordinates": [
+    37.622215407,
+    55.868536941
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9641670",
+   "name": "Парк Чермянка",
+   "distance": "560 м",
+   "distanceValue": 561.585,
+   "coordinates": [
+    37.623591669,
+    55.869257403
+   ],
+   "type": "common"
+  },
+  {
+   "id": "stop__9648728",
+   "name": "Проезд Дежнёва",
+   "distance": "690 м",
+   "distanceValue": 693.397,
+   "coordinates": [
+    37.629731689,
+    55.869029587
+   ],
+   "type": "common"
+  }
+ ],
+ "photos": {
+  "count": 72,
+  "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7982580/2a00000187b9ca2dccf7efa27a6b4be483fa/%s",
+  "items": [
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7982580/2a00000187b9ca2dccf7efa27a6b4be483fa/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/8072793/2a00000187b9cd7702c428c81d91eb03de28/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6310045/2a00000187b9ce92b2a271aafa9fa0be89c5/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/920214/2a00000187b9cef2129660ba278a1273afbb/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/217470/2a00000187b9c75f3bd4a8febf7402f1aed5/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6674804/2a00000187b9c459bc7aec4ae7f9a5c19fc4/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/927916/2a00000187b9c5f89ef2ee87283b47666e93/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/8074519/2a000001877fd9420655ce657893f669282a/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/217470/2a00000187b9c7cbcc20adb70a18db8bfc47/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   },
+   {
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/1005628/2a00000187b9c942be54cd9adc4a6bbeb499/%s",
+    "alt": "Компьютерный клуб Точка Сохранения, Москва, фото"
+   }
+  ]
+ },
+ "entrances": [
+  {
+   "coordinates": [
+    37.6259264,
+    55.86543973
+   ],
+   "azimuth": 71.7204642644412,
+   "tilt": 0
+  }
+ ],
+ "routePoint": {
+  "context": "djJ8ChQKEgn82TRbHtBCQBEpgaS6xu5LQBIrChIJ1iMmCwzQQkARLMJF1czuS0ASDjE2NjUxMjg2MTA3MF8wHQAAgD8gLA,,"
+ },
+ "panorama": {
+  "id": "1298193061_672040601_23_1776499418",
+  "direction": [
+   -106.9,
+   10
+  ],
+  "point": {
+   "type": "Point",
+   "coordinates": [
+    37.6265708678,
+    55.8655492226
+   ]
+  },
+  "preview": "https://static-pano.maps.yandex.ru/v1/?panoid=1298193061_672040601_23_1776499418&size=500%2C240&azimuth=-106.9&tilt=10&api_key=maps&signature=XKIWMRa_O0KjRHuvDzMpFQ8e_2gp4LmyO8aA83rqt4s=",
+  "alt": "Панорама — компьютерный клуб Точка Сохранения, Москва"
+ },
+ "shortTitle": "Точка Сохранения",
+ "fullAddress": "Москва, Юрловский проезд, 5",
+ "country": "Россия",
+ "postalCode": "127490",
+ "status": "open",
+ "businessLinks": [],
+ "ratingData": {
+  "ratingCount": 231,
+  "ratingValue": 5,
+  "reviewCount": 211
+ },
+ "sources": [
+  {
+   "id": "yandex",
+   "name": "Яндекс",
+   "href": "https://ya.ru/"
+  }
+ ],
+ "categories": [
+  {
+   "id": "97550856506",
+   "name": "Компьютерный клуб",
+   "class": "fallback fun",
+   "seoname": "computer_club",
+   "pluralName": "Компьютерные клубы"
+  },
+  {
+   "id": "119373172320",
+   "name": "киберспорт",
+   "class": "sportcenter",
+   "seoname": "cybersport",
+   "pluralName": "Киберспорт"
+  },
+  {
+   "id": "184105740",
+   "name": "интернет-кафе",
+   "class": "software",
+   "seoname": "internet_cafe",
+   "pluralName": "Интернет-кафе"
+  }
+ ],
+ "phones": [
+  {
+   "number": "+7 (937) 058-08-05",
+   "type": "phone",
+   "value": "+79370580805",
+   "info": "Бронирование"
+  }
+ ],
+ "features": [
+  {
+   "id": "online_games",
+   "value": true,
+   "name": "онлайн-игры",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "street_entrance",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "payment_by_credit_card",
+   "value": true,
+   "name": "Оплата картой",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_accessability",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_accessible_vocabulary",
+   "value": [
+    {
+     "id": "wheelchair_accessible_pa",
+     "name": "частично доступно"
+    }
+   ],
+   "name": "доступность помещения на инвалидной коляске",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "petfriendly",
+   "value": [
+    {
+     "id": "animals_are_prohibited",
+     "name": "запрещено с животными"
+    }
+   ],
+   "name": "посещение с животными",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "subscription_games",
+   "value": true,
+   "name": "игры по подписке",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "payment_method",
+   "value": [
+    {
+     "id": "discount_system",
+     "name": "дисконтная система скидок"
+    },
+    {
+     "id": "cash",
+     "name": "наличными"
+    },
+    {
+     "id": "payment_card",
+     "name": "оплата картой"
+    },
+    {
+     "id": "online_payment",
+     "name": "онлайн"
+    },
+    {
+     "id": "fast_payment_system",
+     "name": "СБП"
+    },
+    {
+     "id": "by_credit_card",
+     "name": "оплата кредитной картой"
+    }
+   ],
+   "name": "способ оплаты",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "promotions",
+   "value": [
+    {
+     "id": "discounts",
+     "name": "скидки"
+    },
+    {
+     "id": "promotions",
+     "name": "акции"
+    },
+    {
+     "id": "special_offers",
+     "name": "спецпредложения"
+    },
+    {
+     "id": "bonuses",
+     "name": "бонусы"
+    },
+    {
+     "id": "gifts",
+     "name": "подарки"
+    }
+   ],
+   "name": "акции",
+   "type": "enum",
+   "important": false
+  },
+  {
+   "id": "account_rental",
+   "value": true,
+   "name": "аренда аккаунта",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wi_fi",
+   "value": true,
+   "name": "Wi-Fi",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "bike_parking",
+   "value": true,
+   "name": "велопарковка",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "show_briefly_about_the_place_block",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "ramp",
+   "value": true,
+   "name": "пандус",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "good_place",
+   "value": true,
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "preliminary_registration",
+   "value": true,
+   "name": "предварительная запись",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "car_park",
+   "value": true,
+   "name": "парковка",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "car_simulators",
+   "value": true,
+   "name": "автосимуляторы",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "gift_certificate",
+   "value": true,
+   "name": "подарочный сертификат",
+   "type": "bool",
+   "important": false
+  },
+  {
+   "id": "wheelchair_access",
+   "value": [
+    {
+     "id": "full_access",
+     "name": "доступно"
+    }
+   ],
+   "name": "доступность входа на инвалидной коляске",
+   "type": "enum",
+   "important": false
+  }
+ ],
+ "mediaOrderTemplate": "p,v,p,v,v,p,v*,p*",
+ "featureGroups": [
+  {
+   "name": "Доступность",
+   "featureIds": [
+    "wheelchair_accessability",
+    "elevator_wheelchair_accessible",
+    "ramp",
+    "wheelchair_access",
+    "call_button",
+    "toilet_for_disabled",
+    "wheelchair_accessible_vocabulary"
+   ]
+  }
+ ],
+ "businessProperties": {
+  "has_verified_owner": true,
+  "unusual_hours": [
+   "2026-11-04"
+  ],
+  "sensitive": true
+ },
+ "seoname": "tochka_sokhraneniya",
+ "geoId": 117041,
+ "compositeAddress": {
+  "country": "Россия",
+  "locality": "Москва",
+  "street": "Юрловский проезд",
+  "house": "5"
+ },
+ "modularCard": {
+  "showClaimOrganization": true,
+  "showTaxiButton": true,
+  "showFeedbackButton": true,
+  "showReviews": true,
+  "showAddPhotoButton": true,
+  "showCompetitors": false,
+  "showDirectBanner": false,
+  "showAdditionalAds": false,
+  "showWorkHours": true,
+  "showContacts": true,
+  "showFriendsLiked": false,
+  "showVisualPricesTab": true,
+  "showHotelEnrichment": false,
+  "promoBadgeFeature": [],
+  "offerBadgeId": [],
+  "showCourierButton": false,
+  "hotelReviewsStubType": 0
+ },
+ "modularPin": {
+  "subtitleHints": [
+   {
+    "text": "5",
+    "type": "RATING",
+    "properties": {
+     "rating": {
+      "showGoodPlace": true
+     }
+    }
+   },
+   {
+    "text": "Круглосуточно",
+    "type": "WORKING_HOURS",
+    "properties": {
+     "workingHours": {
+      "shortText": "24 ч",
+      "isOpen": true
+     }
+    }
+   }
+  ],
+  "allowMultilineSubtitle": false
+ },
+ "modularSnippet": {
+  "showNeurosummary": false,
+  "showMentionedOnSite": false,
+  "showTitle": "SHORT_TITLE",
+  "showAddress": "SHORT_ADDRESS",
+  "showCategory": "ALL_CATEGORIES",
+  "showRating": "FIVE_STAR_RATING",
+  "showPhoto": "LOGO",
+  "showWorkHours": true,
+  "showVerified": false,
+  "showDistanceFromTransit": false,
+  "showBookmark": false,
+  "showEta": false,
+  "showGeoproductOffer": false,
+  "subtitleHint": [],
+  "galleryButton": [
+   "PRICES"
+  ],
+  "shownGoodsNumber": 3,
+  "showDescription": false,
+  "showCollectionBadge": true,
+  "showFriendsLiked": false,
+  "showCourierButton": false,
+  "showYandexEatsOrderButton": false,
+  "infoBlock": [],
+  "serpActionButtons": [
+   6,
+   1,
+   3,
+   5,
+   0
+  ],
+  "awards": [
+   0
+  ],
+  "promoBadgeFeature": [],
+  "offerBadgeId": [],
+  "showHotelEnrichment": false
+ },
+ "tzOffset": 10800,
+ "workingTimeText": "ежедневно, круглосуточно",
+ "workingTime": [
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ],
+  [
+   {
+    "from": {
+     "hours": 0,
+     "minutes": 0
+    },
+    "to": {
+     "hours": 0,
+     "minutes": 0
+    }
+   }
+  ]
+ ],
+ "currentWorkingStatus": {
+  "isOpenNow": true,
+  "text": "Круглосуточно",
+  "shortText": "24 ч",
+  "tag": []
+ },
+ "socialLinks": [
+  {
+   "type": "whatsapp",
+   "href": "https://wa.me/79370580805?text=%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B7+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%9A%D0%B0%D1%80%D1%82%0A%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE+%D0%B2%D0%B0%D1%88%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+   "readableHref": "+79370580805"
+  },
+  {
+   "type": "telegram",
+   "href": "https://t.me/tochka_otradnoe",
+   "readableHref": "@tochka_otradnoe"
+  }
+ ],
+ "advert": {
+  "logId": "52099135",
+  "title": "",
+  "text": "",
+  "url": "",
+  "ordInfo": {
+   "client": {
+    "id": "313226107"
+   }
+  },
+  "isBko": false,
+  "isDirect": false,
+  "isPriorityCampaign": false,
+  "actionButtons": [
+   {
+    "type": "url",
+    "title": "Забронировать",
+    "value": "https://t.me/tochka_otradnoe/"
+   }
+  ],
+  "highlighted": true,
+  "isBrandAdvertV2": false,
+  "products": [
+   {
+    "title": "Стандарт: RTX5060+240гц+32гб+Intel (днём в будние дни)",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/20533552/2a0000019f18a4a631c7444d161418d9e2a0/M_height",
+    "price": {
+     "text": "110 р.",
+     "value": 110,
+     "currency": "RUB"
+    },
+    "url": "https://t.me/tochka_otradnoe"
+   },
+   {
+    "title": "Стандарт-VIP: RTX5060Ti+320гц/2k+32гб+Intel днём в будни",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21221691/2a0000019f8ebaf8f993f21df6944a717533/M_height",
+    "price": {
+     "text": "150 р.",
+     "value": 150,
+     "currency": "RUB"
+    },
+    "url": "https://t.me/tochka_otradnoe"
+   },
+   {
+    "title": "VIP: RTX5070+425гц/2k+32гб/DDR5+Ryzen днём в будни",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/18659956/2a0000019ffa07c991f214ee6449aceca68e/M_height",
+    "price": {
+     "text": "190 р.",
+     "value": 190,
+     "currency": "RUB"
+    },
+    "url": "https://t.me/tochka_otradnoe"
+   },
+   {
+    "title": "PS5 + 4 геймпада + подписка Deluxe+ (комната на 4 чел.)",
+    "img": "https://avatars.mds.yandex.net/get-tycoon/21059454/2a0000019f8ebf349abd1e1855fcf0ee8487/M_height",
+    "price": {
+     "text": "450 р.",
+     "value": 450,
+     "currency": "RUB"
+    },
+    "url": "https://t.me/tochka_otradnoe"
+   }
+  ]
+ },
+ "businessImages": {
+  "logo": {
+   "urlTemplate": "https://avatars.mds.yandex.net/get-altay/16329823/2a000001991b4280c568c2f6eeef72c0bab3/%s",
+   "tag": [
+    "owner_photo"
+   ],
+   "id": "2a000001991b4280c568c2f6eeef72c0bab3"
+  }
+ },
+ "references": [
+  {
+   "id": "5107679986",
+   "scope": "nyak"
+  },
+  {
+   "id": "72057609520600274",
+   "scope": "geoprod-21246"
+  }
+ ],
+ "subtitleItems": [
+  {
+   "type": "working_hours",
+   "text": "24 ч",
+   "property": [
+    {
+     "key": "is_open",
+     "value": "1"
+    },
+    {
+     "key": "short_text",
+     "value": "24 ч"
+    },
+    {
+     "key": "text",
+     "value": "Круглосуточно"
+    }
+   ]
+  },
+  {
+   "type": "rating",
+   "text": "10",
+   "property": [
+    {
+     "key": "value",
+     "value": "10"
+    },
+    {
+     "key": "value_5",
+     "value": "5"
+    },
+    {
+     "key": "yandex_star",
+     "value": "1"
+    }
+   ]
+  }
+ ],
+ "metrika": {
+  "counter": 93178559,
+  "goals": {
+   "call": "make-call",
+   "cta": "cta-button",
+   "route": "make-route",
+   "site": "site",
+   "whatsapp": "whatsapp",
+   "telegram": "telegram",
+   "viber": "viber",
+   "vkontakte": "vkontakte",
+   "youtube": "social-youtube",
+   "odnoklassniki": "social-odnoklassniki",
+   "instagram": "instagram_subscribe",
+   "stories": "stories-button",
+   "taxi": "call-taxi",
+   "booking": "booking",
+   "subscribe": "subscribe",
+   "send-to-phone": "send-to-phone",
+   "booking-open": "booking-open",
+   "share": "share",
+   "booking-confirmed": "booking-confirmed",
+   "booking-visited": "booking-visited",
+   "start-route": "start-route",
+   "visited-organization": "visited-organization"
+  }
+ },
+ "routeToChoose": [
+  {
+   "icon-url": "https://yastatic.net/s3/web4static/_/v2/static/media/yandex_logo.c2cc5125.png",
+   "label": "Яндекс Карты",
+   "route-types": {
+    "auto": "auto",
+    "bus": "mt",
+    "walking": "pd"
+   },
+   "route-url-template": "https://maps.yandex.ru/?mode=routes&rtext={fromParam}~{toParam}&rtt={routeTypeParam}&source=wizbiz_new_map_single&utm_source=yandex&utm_medium=wizbiz_map&utm_campaign=route",
+   "search-text-url-template": "https://yandex.ru/maps/?mode=search&text={encodedText}",
+   "service": "yandex_maps"
+  },
+  {
+   "icon-url": "https://yastatic.net/s3/web4static/_/v2/static/media/twoGis_logo.f6efe2e1.png",
+   "label": "2ГИС",
+   "route-types": {
+    "auto": "car",
+    "bus": "bus",
+    "walking": "pedestrian"
+   },
+   "route-url-template": "https://2gis.ru/directions/tab/{routeTypeParam}/points/{fromParam}|{toParam}&utm_from=route",
+   "search-text-url-template": "https://2gis.ru/search/{encodedText}",
+   "service": "2gis"
+  }
+ ],
+ "topObjects": {
+  "hasPhotos": true,
+  "isYandexEda": false,
+  "rubric": "other",
+  "categories": [
+   {
+    "categoryName": "popular",
+    "categoryItems": [
+     {
+      "title": "Аренда Play Station",
+      "description": "Аренда комнаты PS5 с подпиской Deluxe Plus с 4 джойстиками",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a0000019ffa1ad97ddf907a403d12441f5f/{size}",
+      "price": "450",
+      "volume": "1 ч",
+      "currency": "₽",
+      "matchKey": "v1.l7zXicNjDnD0JzjTkw2ZTkaoszWT8wdSwvatPtqaCr8"
+     },
+     {
+      "title": "Аренда игровых компьютеров",
+      "description": "Аренда компьютера днём в будни, в зале \"Стандарт\" - i5 13400F, NVIDIA 5060 RTX, DDR4 32 gb, FHD 240 Hz, периферия Logitech, HyperX",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019ffa1b275a60746591ead0115d31/{size}",
+      "price": "110",
+      "volume": "1 ч",
+      "currency": "₽",
+      "matchKey": "v1.R9ucAot4ejDKnWV-zEyW1LJfmiGS2tBNcu4NAIrAFSE"
+     },
+     {
+      "title": "Аренда игровых компьютеров",
+      "description": "Аренда компьютера днём в будни, в зале \"VIP\"- Ryzen 7500F, NVIDIA 5070 RTX, DDR5 32 gb, 2k 425 Hz, SSD 2 tb, периферия Asus ROG, Logitech.",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a0000019ffa1b6dd5d5bc2f05c6ae510a5e/{size}",
+      "price": "190",
+      "volume": "1 ч",
+      "currency": "₽",
+      "matchKey": "v1.sdAn0WT91d88_H14hunYdu23TpKZWzlS03s0sqMffpo"
+     },
+     {
+      "title": "Аренда игровых компьютеров",
+      "description": "Аренда компьютера днём в будни, в зале \"Стандарт-VIP\" - i5 13400F, NVIDIA 5060Ti RTX, DDR4 32 gb, 2k 320 Hz, SSD 2 tb, периферия Logitech, HyperX",
+      "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2790747/2a0000019ffa1a76dac437640be5796b2fc4/{size}",
+      "price": "150",
+      "volume": "1 ч",
+      "currency": "₽",
+      "matchKey": "v1.jzWfxapCnMfrZKFGdWnl47RBAmtIsTZSHdmJzP5eJ84"
+     }
+    ]
+   }
+  ],
+  "fullObjectsCount": 6,
+  "relevance": {
+   "lastUploadTime": "2026-10-05T19:28:44.970307Z",
+   "lastUpdateTime": "2026-09-02T07:39:56.420949Z"
+  },
+  "source": {
+   "id": "TYCOON",
+   "name": "Представитель организации"
+  }
+ },
+ "parentRubrics": [
+  184106326,
+  184107271,
+  125907999099,
+  184106348,
+  184107289,
+  184105730
+ ],
+ "discoveries": [
+  {
+   "alias": "khoroshee-mesto-rajony_komp-yuternyj-klub_rajon-otradnoe-moskva-213",
+   "title": "Компьютерные клубы с наградой «Хорошее место 2026» в Отрадном",
+   "description": "",
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/14382555/2a0000019488f83cb9c20433a7b42d183902/%s",
+   "placeNumber": 5,
+   "partner": {
+    "name": "Хорошее место",
+    "iconTemplate": "https://avatars.mds.yandex.net/get-discovery-int/1534577/2a00000196448018d60ab50a465b0a658c41/%s"
+   }
+  },
+  {
+   "alias": "podborka_dosug_tishina_r-n-otradnoe-moskva-213",
+   "title": "Тихие парки района Отрадное в Москве",
+   "description": "Ищете место для спокойного отдыха в Москве? В районе Отрадное вас ждут уютные парки с тихими прогулочными зонами, где можно насладиться природой, свежим воздухом и умиротворяющей атмосферой. Здесь есть всё для комфортного досуга: детские и спортивные площадки, беговые и велосипедные дорожки, живописные мостики и беседки. Идеальные места для семейных прогулок и уединения вдали от городского шума.",
+   "photoUrlTemplate": "https://avatars.mds.yandex.net/get-altay/217470/2a00000187b9c7cbcc20adb70a18db8bfc47/%s",
+   "placeNumber": 4,
+   "partner": {
+    "name": "Яндекс Карты",
+    "iconTemplate": "https://avatars.mds.yandex.net/get-discovery-int/1532686/2a0000018a8951d0536918abccb677fda58a/%s"
+   }
+  }
+ ],
+ "histogramData": {
+  "wednesday": [
+   0.0029321318744189376,
+   0.001652006007294572,
+   0.0012872774082814849,
+   0.0009082457269541587,
+   0.0006436387041407423,
+   0.000679396409926339,
+   0.0008009726095973683,
+   0.00145176285489523,
+   0.0027247371808624757,
+   0.0032110419795465923,
+   0.00346134592004577,
+   0.004047772294929557,
+   0.005163412715440178,
+   0.005192018880068655,
+   0.005714081384538368,
+   0.006536508617607095,
+   0.007623542873489236,
+   0.008767789458628335,
+   0.010212400772366445,
+   0.011564042051062005,
+   0.011800042909246942,
+   0.010898948723449903,
+   0.009318458127726525,
+   0.0061860831009082455
+  ],
+  "sunday": [
+   0.004863047986841164,
+   0.0031752842737609956,
+   0.002166916970607166,
+   0.0016019452191947366,
+   0.001351641278695559,
+   0.0011299435028248588,
+   0.0009583065150539942,
+   0.0012229135378674105,
+   0.0022241292998641206,
+   0.0035829221197167995,
+   0.004433955517414003,
+   0.005935779160409068,
+   0.007895301437459772,
+   0.010212400772366445,
+   0.011356647357505542,
+   0.012365014660659372,
+   0.013766716727454767,
+   0.014467567760852463,
+   0.014345991561181435,
+   0.01350210970464135,
+   0.013566473575055424,
+   0.012887077165129084,
+   0.009654580562111135,
+   0.0055066866909819065
+  ],
+  "friday": [
+   0.0035543159550883215,
+   0.0019595222770507044,
+   0.0012229135378674105,
+   0.0009440034327397554,
+   0.0008081241507544876,
+   0.0007938210684402488,
+   0.001036973467782307,
+   0.001773582206965601,
+   0.0027962525924336693,
+   0.003354072802688979,
+   0.0039404991775727665,
+   0.005041836515769149,
+   0.006207537724379604,
+   0.006765357934634914,
+   0.007108631910176643,
+   0.008081241507544875,
+   0.009554458985911464,
+   0.010956161052706859,
+   0.01295144103554316,
+   0.01416005149109633,
+   0.014002717585639705,
+   0.012844167918186369,
+   0.011778588285775583,
+   0.008724880211685618
+  ],
+  "tuesday": [
+   0.002545948651934492,
+   0.0014517628548952298,
+   0.00111564042051062,
+   0.0008724880211685618,
+   0.0006507902452978616,
+   0.0006650933276121005,
+   0.0010441250089394264,
+   0.0017020667953944076,
+   0.00289637416863334,
+   0.003146678109132518,
+   0.0032253450618608312,
+   0.004047772294929558,
+   0.004998927268826432,
+   0.005756990631481084,
+   0.006221840806693843,
+   0.006650933276121004,
+   0.008059786884073519,
+   0.009432882786240434,
+   0.010684402488736321,
+   0.011549738968747766,
+   0.01117070728742044,
+   0.009833369091039119,
+   0.0087177286705285,
+   0.006150325395122649
+  ],
+  "monday": [
+   0.0027891010512765503,
+   0.001966673818207824,
+   0.0014446113137381105,
+   0.0008939426446399199,
+   0.0006936994922405778,
+   0.0007652149038117715,
+   0.0009297003504255167,
+   0.0014803690195237073,
+   0.0027533433454909532,
+   0.003168132732603876,
+   0.003253951226489309,
+   0.0040263176714581995,
+   0.005056139598083388,
+   0.005656869055281413,
+   0.006343417006364871,
+   0.006751054852320675,
+   0.007716512908531788,
+   0.009232639633841093,
+   0.011113494958163484,
+   0.012472287778016162,
+   0.01207180147321748,
+   0.010434098548237146,
+   0.008188514624901666,
+   0.005528141314453265
+  ],
+  "thursday": [
+   0.003504255166988486,
+   0.0018880068654795108,
+   0.001351641278695559,
+   0.001015518844310949,
+   0.0005435171279410712,
+   0.0005149109633125939,
+   0.0008867911034828005,
+   0.001508975184152185,
+   0.0025531001930916113,
+   0.0032324966030179503,
+   0.003425588214260173,
+   0.0040263176714581995,
+   0.004841593363369806,
+   0.004941714939569478,
+   0.005778445254952443,
+   0.006979904169348495,
+   0.008059786884073519,
+   0.009933490667238792,
+   0.011556890509904884,
+   0.011800042909246942,
+   0.011421011227919615,
+   0.01014803690195237,
+   0.008174211542587427,
+   0.005828506043052278
+  ],
+  "saturday": [
+   0.005342201244368161,
+   0.0033755274261603376,
+   0.002131159264821569,
+   0.0017235214188657656,
+   0.0013802474433240364,
+   0.0010083673031538298,
+   0.0010584280912536654,
+   0.0012872774082814849,
+   0.0022598870056497176,
+   0.003697346778230709,
+   0.004927411857255239,
+   0.005828506043052278,
+   0.007466208968032611,
+   0.009096760351855825,
+   0.01038403776013731,
+   0.011299435028248588,
+   0.012572409354215833,
+   0.014231566902667525,
+   0.015783451333762424,
+   0.01642709003790317,
+   0.01563326896946292,
+   0.015089751841521847,
+   0.012915683329757562,
+   0.008531788600443395
+  ]
+ },
+ "storytellingData": {
+  "media": [
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/6314780/2a000001897361fccbf013258f6b814ced68/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6314780/2a000001897361fccbf013258f6b814ced68/%s",
+    "dynamicContent": {
+     "summary": {
+      "type": "summary",
+      "text": "Компьютерный клуб «Точка Сохранения» — это идеальное место для тех, кто любит играть в компьютерные игры.",
+      "textType": "long"
+     }
+    }
+   },
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/6674804/2a00000187b9c459bc7aec4ae7f9a5c19fc4/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/6674804/2a00000187b9c459bc7aec4ae7f9a5c19fc4/%s",
+    "dynamicContent": {
+     "summary": {
+      "type": "summary",
+      "text": "Здесь вы найдете мощные компьютеры, удобные кресла и приятную атмосферу. Кроме того, в клубе есть клубные аккаунты и скидки для постоянных клиентов.",
+      "textType": "long"
+     }
+    }
+   },
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/15431134/2a000001988466b9d0fe2d2f4a58d4f97b80/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/15431134/2a000001988466b9d0fe2d2f4a58d4f97b80/%s",
+    "dynamicContent": {
+     "aspect": {
+      "type": "aspect",
+      "title": "Отдых",
+      "count": 22,
+      "imageUrl": "https://avatars.mds.yandex.net/get-altay/1618837/2a0000018707b483e709472d36597566e862/%s"
+     },
+     "summary": {
+      "type": "summary",
+      "text": "Компьютерный клуб",
+      "textType": "rubric"
+     }
+    }
+   },
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/235931/2a00000187b9c339e4a9a91c34ed1d21eee9/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/235931/2a00000187b9c339e4a9a91c34ed1d21eee9/%s",
+    "dynamicContent": {
+     "summary": {
+      "type": "summary",
+      "text": "Компьютерный клуб",
+      "textType": "rubric"
+     }
+    }
+   },
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/20274901/2a000001a0382bf2003b7a11049f6776ce7e/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/20274901/2a000001a0382bf2003b7a11049f6776ce7e/%s",
+    "dynamicContent": {
+     "summary": {
+      "type": "summary",
+      "text": "Компьютерный клуб",
+      "textType": "rubric"
+     }
+    }
+   },
+   {
+    "type": "photo",
+    "id": "https://avatars.mds.yandex.net/get-altay/7636462/2a00000187b9cbb21a526c614a2617dba6fc/%s",
+    "urlTemplate": "https://avatars.mds.yandex.net/get-altay/7636462/2a00000187b9cbb21a526c614a2617dba6fc/%s",
+    "dynamicContent": {
+     "summary": {
+      "type": "summary",
+      "text": "Компьютерный клуб",
+      "textType": "rubric"
+     }
+    }
+   }
+  ],
+  "previewData": {
+   "title": "Коротко о месте",
+   "description": "Компьютерный клуб «Точка Сохранения» — это идеальное место для тех, кто любит играть в компьютерные игры.",
+   "imageTemplates": [
+    "https://avatars.mds.yandex.net/get-altay/6314780/2a000001897361fccbf013258f6b814ced68/%s",
+    "https://avatars.mds.yandex.net/get-altay/6674804/2a00000187b9c459bc7aec4ae7f9a5c19fc4/%s"
+   ]
+  }
+ },
+ "awards": {
+  "goodPlaceYear": "2026"
+ },
+ "hasStories": true,
+ "needSimilarOrgsRequest": false,
+ "needCompetitorRequest": false,
+ "region": {
+  "id": 213,
+  "type": 6,
+  "capitalId": 0,
+  "hierarchy": [
+   225,
+   1,
+   213
+  ],
+  "seoname": "moscow",
+  "bounds": [
+   [
+    37.0354885,
+    55.31406179935764
+   ],
+   [
+    38.1999115,
+    56.192715799357636
+   ]
+  ],
+  "longitude": 37.6177,
+  "latitude": 55.755863,
+  "zoom": 10,
+  "names": {
+   "ablative": "",
+   "accusative": "Москву",
+   "dative": "Москве",
+   "directional": "",
+   "genitive": "Москвы",
+   "instrumental": "Москвой",
+   "locative": "",
+   "nominative": "Москва",
+   "preposition": "в",
+   "prepositional": "Москве"
+  }
+ },
+ "breadcrumbs": [
+  {
+   "name": "Карты",
+   "type": "root",
+   "url": "https://yandex.ru/maps/"
+  },
+  {
+   "name": "Москва",
+   "type": "region",
+   "url": "https://yandex.ru/maps/213/moscow/",
+   "region": {
+    "center": [
+     37.6177,
+     55.755863
+    ],
+    "zoom": 10
+   }
+  },
+  {
+   "category": {
+    "id": "97550856506",
+    "name": "Компьютерный клуб",
+    "class": "fallback fun",
+    "seoname": "computer_club",
+    "pluralName": "Компьютерные клубы"
+   },
+   "name": "Компьютерные клубы",
+   "type": "category",
+   "url": "https://yandex.ru/maps/213/moscow/category/computer_club/97550856506/"
+  }
+ ],
+ "reviewResults": {
+  "reviews": [
+   {
+    "businessComment": {
+     "text": "Спасибо за ваш отзыв, ждём Вас снова!",
+     "updatedTime": "2026-09-05T08:18:25.276Z"
+    },
+    "reviewId": "6N7JfrOTh3pc4WfMyxbWWQTQXKWHH96V",
+    "businessId": "166512861070",
+    "author": {
+     "name": "Никита Рамонес",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/0f-6/{size}",
+     "professionLevel": "Знаток города 3 уровня",
+     "rtb": "Знаток города 3 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "049un7018utbrywc2g51rn103w",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Отличный пк клуб, здесь очень чисто и комфортно. Приветливый персонал и сама аудитория пк клуба нормальная здесь нет свинарника и прочего. Вообщем буду чаще сюда ходить обязательно!",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Harika bir pc kulübü, burası çok temiz ve rahat. Güler yüzlü personel ve kulübün pc seyircisinin kendisi normaldir burada domuz ahırı ve başka şeyler yoktur. Genel olarak buraya daha sık gitmem gerekecek!"
+    },
+    "rating": 5,
+    "updatedTime": "2026-09-04T13:01:53.559Z",
+    "reactions": {
+     "likes": 1,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [
+     {
+      "type": "photo",
+      "id": "18762305_2a000001a06c8312329f9909d9387b6f4186",
+      "businessId": "166512861070",
+      "urlTemplate": "https://avatars.mds.yandex.net/get-altay/18762305/2a000001a06c8312329f9909d9387b6f4186/{size}",
+      "createdTime": 1788526926380,
+      "moderation": {
+       "status": "ACCEPTED"
+      },
+      "showReactions": true,
+      "reactions": {
+       "likes": 0,
+       "dislikes": 0,
+       "userReaction": "NONE"
+      },
+      "copyright": {
+       "name": "Никита Рамонес",
+       "publicId": "049un7018utbrywc2g51rn103w",
+       "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/47747/0f-6/{size}",
+       "updateTime": 1788526926380,
+       "hasPublicProfile": true,
+       "isSubscribed": false
+      }
+     }
+    ],
+    "videos": [],
+    "pinned": false
+   },
+   {
+    "businessComment": {
+     "text": "Спасибо, мы старались, ждём Вас снова!",
+     "updatedTime": "2026-09-18T12:59:10.142Z"
+    },
+    "reviewId": "29UG36XxmcYBBoi-py5jHBhQlg9dX1B",
+    "businessId": "166512861070",
+    "author": {
+     "name": "Artem Aleksandrov",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/27503/l2iWrpe0kNzzoBUWg2uTcK6q1RU-1/{size}",
+     "professionLevel": "Знаток города 27 уровня",
+     "rtb": "Знаток города 27 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "3pr3uptcq3zrmu95m3u2p29ncm",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Все очень понравилось. Очень уютное место, тихо и спокойно можно поиграть, без лишних криков и так далее, большой выбор напитков и закусок, рекомендую!! Теперь только сюда. ",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Her şeyi çok beğendim. Çok rahat bir yer, çok fazla çığlık atmadan sessizce ve sakince oynayabilirsiniz, çok çeşitli içecekler ve atıştırmalıklar öneririm!! Şimdi sadece buraya. "
+    },
+    "rating": 5,
+    "updatedTime": "2026-09-16T21:01:17.349Z",
+    "reactions": {
+     "likes": 1,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [],
+    "videos": [],
+    "pinned": false
+   },
+   {
+    "businessComment": {
+     "text": "Спасибо за приятный отклик",
+     "updatedTime": "2026-06-25T12:05:47.683Z"
+    },
+    "reviewId": "8b1e9NORyaSK0UDA6ReI5OgciVIaRH-t",
+    "businessId": "166512861070",
+    "author": {
+     "name": "Вячеслав Мельников",
+     "avatarUrl": "https://avatars.mds.yandex.net/get-yapic/69015/0a-9/{size}",
+     "professionLevel": "Знаток города 3 уровня",
+     "rtb": "Знаток города 3 уровня",
+     "rtbType": "PROFESSION",
+     "publicId": "4tqaykban6nfqp5f47eyp8f8w4",
+     "achievements": [],
+     "professions": [],
+     "isSubscribed": false
+    },
+    "text": "Дима админ вообще красавчик, 3 сентября включил, сидели вместе пели, компы  прекрасные, тянут всё о чем пожелаешь\n\nВ общем админы прекрасные, атмосфера прикольная, со всем помогут, все раскажут\n\nВсе кто придет с другом тот вообще лев тигр. \nСоветую, лучший пк клуб в отрадном\n\nДмитрий Михайлович, вам отдельное спасибо за работу",
+    "textLanguage": "ru",
+    "textTranslations": {
+     "tr": "Dima yönetici genellikle yakışıklı, 3 Eylül'de açıldı, birlikte şarkı söylediler, bilgisayarlar güzeldi, istediğin her şeyi çekiyorlar\n\nGenel olarak, yöneticiler harika, atmosfer harika, her şeye yardım edecekler, her şeyi anlatacaklar\n\nBir arkadaşıyla gelecek olan herkes genellikle aslan kaplanıdır. \nOtradny'deki en iyi pc kulübünün size tavsiyede bulunuyorum\n\nDmitry Mikhailovich, çalışmanız için size özel teşekkürler"
+    },
+    "rating": 5,
+    "updatedTime": "2026-06-17T09:59:54.414Z",
+    "reactions": {
+     "likes": 2,
+     "dislikes": 0,
+     "userReaction": "NONE"
+    },
+    "photos": [],
+    "videos": [],
+    "pinned": false
+   }
+  ],
+  "params": {
+   "offset": 0,
+   "limit": 3,
+   "count": 211,
+   "loadedReviewsCount": 3,
+   "page": 1,
+   "totalPages": 71,
+   "reviewsRemained": 208
+  },
+  "tags": [],
+  "aspects": [
+   {
+    "text": "Впечатления",
+    "count": 207,
+    "positive": 159,
+    "negative": 1
+   },
+   {
+    "text": "Отдых",
+    "count": 16,
+    "positive": 16,
+    "negative": 0
+   },
+   {
+    "text": "Интерьер",
+    "count": 16,
+    "positive": 16,
+    "negative": 0
+   }
+  ]
+ },
+ "reviewPollData": {
+  "aspects": []
+ },
+ "a11y": {
+  "hasReviews": false,
+  "photos": [
+   {
+    "id": "urn:yandex:sprav:photo:16105091-2a000001975ae290bee57b2523521218ba4b",
+    "tags": [
+     {
+      "id": "Enter",
+      "name": "Вход"
+     },
+     {
+      "id": "Accessibility",
+      "name": "Доступность"
+     }
+    ],
+    "width": 720,
+    "height": 960,
+    "url": "https://avatars.mds.yandex.net/get-altay/16105091/2a000001975ae290bee57b2523521218ba4b/XXXL",
+    "showReactions": true,
+    "copyright": {
+     "name": "Яндекс",
+     "url": "https://ya.ru/",
+     "updateTime": "2025-06-07T13:53:19Z"
+    }
+   }
+  ]
+ },
+ "geoWhere": {
+  "id": "56790327",
+  "seoname": "yurlovskiy_proyezd_5",
+  "kind": "house",
+  "coordinates": [
+   37.625711,
+   55.865435
+  ],
+  "displayCoordinates": [
+   37.625711,
+   55.865435
+  ],
+  "encodedCoordinates": "Z04YcAVlTkQGQFtvfXR3dHhgYQ=="
+ }
+}

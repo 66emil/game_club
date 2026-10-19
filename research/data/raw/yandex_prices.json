@@ -1,0 +1,85 @@
+{
+ "hasPhotos": true,
+ "rubric": "other",
+ "categories": [
+  {
+   "categoryName": "Аренда комнаты PS",
+   "categoryItems": [
+    {
+     "title": "Аренда Play Station",
+     "description": "Аренда комнаты PS5 с подпиской Deluxe Plus с 4 джойстиками",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19300642/2a0000019ffa1ad97ddf907a403d12441f5f/{size}",
+     "price": "450",
+     "volume": "1 ч",
+     "currency": "₽",
+     "matchKey": "v1.l7zXicNjDnD0JzjTkw2ZTkaoszWT8wdSwvatPtqaCr8"
+    }
+   ]
+  },
+  {
+   "categoryName": "Пакет \"Утро\" 09:00 - 13:00",
+   "categoryItems": [
+    {
+     "title": "Аренда игровых компьютеров",
+     "description": "Аренда компьютера утром 9:00 - 13:00, в зале \"Стандарт\":\n\ni5 13400F, NVIDIA 5060 RTX, DDR4 32 gb, FHD 240 Hz, периферия Logitech, HyperX",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/19861719/2a000001a05c757bf85b8ff0e7238cc7fd5a/{size}",
+     "price": "200",
+     "volume": "4 ч",
+     "currency": "₽",
+     "matchKey": "v1.LAe1qALfhwIUpWzRliTDCyC0y08phCUZCW0HuyX8vhs"
+    },
+    {
+     "title": "Аренда игровых компьютеров",
+     "description": "Аренда компьютера утром 9:00 - 13:00 в зале \"Стандарт-VIP\":\n\ni5 13400F, NVIDIA 5060Ti RTX, DDR4 32 gb, 2k 320 Hz, SSD 2 tb, периферия Logitech, HyperX",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/5236693/2a000001a05c7a36049e3dc2ff5a3cba3b40/{size}",
+     "price": "250",
+     "volume": "4 ч",
+     "currency": "₽",
+     "matchKey": "v1.EvuqBPRf1koDas8_d1A7CvQp-sonekO1l0Dd5Fh9BlA"
+    }
+   ]
+  },
+  {
+   "categoryName": "Аренда компьютера - 1 час день (пн-пт) зал \"Стандарт\"",
+   "categoryItems": [
+    {
+     "title": "Аренда игровых компьютеров",
+     "description": "Аренда компьютера днём в будни, в зале \"Стандарт\" - i5 13400F, NVIDIA 5060 RTX, DDR4 32 gb, FHD 240 Hz, периферия Logitech, HyperX",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019ffa1b275a60746591ead0115d31/{size}",
+     "price": "110",
+     "volume": "1 ч",
+     "currency": "₽",
+     "matchKey": "v1.R9ucAot4ejDKnWV-zEyW1LJfmiGS2tBNcu4NAIrAFSE"
+    }
+   ]
+  },
+  {
+   "categoryName": "Аренда компьютера - 1 час день (пн-пт) зал \"VIP\"",
+   "categoryItems": [
+    {
+     "title": "Аренда игровых компьютеров",
+     "description": "Аренда компьютера днём в будни, в зале \"VIP\"- Ryzen 7500F, NVIDIA 5070 RTX, DDR5 32 gb, 2k 425 Hz, SSD 2 tb, периферия Asus ROG, Logitech.",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/21065090/2a0000019ffa1b6dd5d5bc2f05c6ae510a5e/{size}",
+     "price": "190",
+     "volume": "1 ч",
+     "currency": "₽",
+     "matchKey": "v1.sdAn0WT91d88_H14hunYdu23TpKZWzlS03s0sqMffpo"
+    }
+   ]
+  },
+  {
+   "categoryName": "Аренда компьютера - 1 час день (пн-пт) зал \"Стандарт-VIP\"",
+   "categoryItems": [
+    {
+     "title": "Аренда игровых компьютеров",
+     "description": "Аренда компьютера днём в будни, в зале \"Стандарт-VIP\" - i5 13400F, NVIDIA 5060Ti RTX, DDR4 32 gb, 2k 320 Hz, SSD 2 tb, периферия Logitech, HyperX",
+     "photoLink": "https://avatars.mds.yandex.net/get-sprav-products/2790747/2a0000019ffa1a76dac437640be5796b2fc4/{size}",
+     "price": "150",
+     "volume": "1 ч",
+     "currency": "₽",
+     "matchKey": "v1.jzWfxapCnMfrZKFGdWnl47RBAmtIsTZSHdmJzP5eJ84"
+    }
+   ]
+  }
+ ]
+}

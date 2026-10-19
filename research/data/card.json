@@ -1,0 +1,359 @@
+{
+  "source": "https://yandex.ru/maps/org/tochka_sokhraneniya/166512861070/",
+  "collected_at": "2026-10-18",
+  "yandex_org_id": "166512861070",
+  "name": "Точка Сохранения",
+  "brand_variants_seen": [
+    "Точка Сохранения (карточка)",
+    "SavePoint / SAVE POINT (вывеска над стойкой, заставка на ПК, ответы на отзывы 2023)",
+    "ТОЧКА (заставка на ПК, Telegram @tochka_otradnoe)"
+  ],
+  "categories": [
+    "Компьютерный клуб",
+    "киберспорт",
+    "интернет-кафе"
+  ],
+  "address": {
+    "full": "Москва, Юрловский проезд, 5",
+    "short": "Юрловский пр., 5, Москва",
+    "postal_code": "127490",
+    "district": "Отрадное (СВАО)",
+    "coordinates_lon_lat": [
+      37.625905,
+      55.865436
+    ],
+    "entrance_lon_lat": [
+      37.6259264,
+      55.86543973
+    ]
+  },
+  "metro": [
+    {
+      "name": "Отрадное",
+      "distance": "1,5 км"
+    },
+    {
+      "name": "Свиблово",
+      "distance": "2,38 км"
+    },
+    {
+      "name": "Бибирево",
+      "distance": "2,59 км"
+    }
+  ],
+  "bus_stops": [
+    {
+      "name": "Юрловский проезд",
+      "distance": "73 м"
+    },
+    {
+      "name": "Улица Мусоргского, 11",
+      "distance": "271 м"
+    },
+    {
+      "name": "Северный бульвар",
+      "distance": "480 м"
+    },
+    {
+      "name": "Парк Чермянка",
+      "distance": "560 м"
+    },
+    {
+      "name": "Проезд Дежнёва",
+      "distance": "690 м"
+    }
+  ],
+  "phones": [
+    {
+      "number": "+7 (937) 058-08-05",
+      "type": "phone",
+      "value": "+79370580805",
+      "info": "Бронирование"
+    }
+  ],
+  "messengers": [
+    {
+      "type": "whatsapp",
+      "value": "+79370580805",
+      "href": "https://wa.me/79370580805"
+    },
+    {
+      "type": "telegram",
+      "value": "@tochka_otradnoe",
+      "href": "https://t.me/tochka_otradnoe"
+    }
+  ],
+  "booking_button_on_card": [
+    {
+      "type": "url",
+      "title": "Забронировать",
+      "value": "https://t.me/tochka_otradnoe/"
+    }
+  ],
+  "hours": {
+    "text": "ежедневно, круглосуточно",
+    "is_24_7": true,
+    "special_hours_dates": [
+      "2026-11-04"
+    ]
+  },
+  "rating": {
+    "value": 5,
+    "ratings_count": 231,
+    "reviews_count": 211
+  },
+  "review_aspects": [
+    {
+      "text": "Впечатления",
+      "count": 207,
+      "positive": 159,
+      "negative": 1
+    },
+    {
+      "text": "Отдых",
+      "count": 16,
+      "positive": 16,
+      "negative": 0
+    },
+    {
+      "text": "Интерьер",
+      "count": 16,
+      "positive": 16,
+      "negative": 0
+    }
+  ],
+  "awards": [
+    "«Хорошее место 2026» (Яндекс), 5-е место в подборке компьютерных клубов Отрадного"
+  ],
+  "verified_owner": true,
+  "yandex_ai_summary": [
+    "Компьютерный клуб «Точка Сохранения» — это идеальное место для тех, кто любит играть в компьютерные игры.",
+    "Здесь вы найдете мощные компьютеры, удобные кресла и приятную атмосферу. Кроме того, в клубе есть клубные аккаунты и скидки для постоянных клиентов."
+  ],
+  "features": {
+    "online_games": {
+      "name": "онлайн-игры",
+      "value": true
+    },
+    "street_entrance": {
+      "name": null,
+      "value": true
+    },
+    "payment_by_credit_card": {
+      "name": "Оплата картой",
+      "value": true
+    },
+    "wheelchair_accessability": {
+      "name": null,
+      "value": true
+    },
+    "wheelchair_accessible_vocabulary": {
+      "name": "доступность помещения на инвалидной коляске",
+      "value": [
+        "частично доступно"
+      ]
+    },
+    "petfriendly": {
+      "name": "посещение с животными",
+      "value": [
+        "запрещено с животными"
+      ]
+    },
+    "subscription_games": {
+      "name": "игры по подписке",
+      "value": true
+    },
+    "payment_method": {
+      "name": "способ оплаты",
+      "value": [
+        "дисконтная система скидок",
+        "наличными",
+        "оплата картой",
+        "онлайн",
+        "СБП",
+        "оплата кредитной картой"
+      ]
+    },
+    "promotions": {
+      "name": "акции",
+      "value": [
+        "скидки",
+        "акции",
+        "спецпредложения",
+        "бонусы",
+        "подарки"
+      ]
+    },
+    "account_rental": {
+      "name": "аренда аккаунта",
+      "value": true
+    },
+    "wi_fi": {
+      "name": "Wi-Fi",
+      "value": true
+    },
+    "bike_parking": {
+      "name": "велопарковка",
+      "value": true
+    },
+    "show_briefly_about_the_place_block": {
+      "name": null,
+      "value": true
+    },
+    "ramp": {
+      "name": "пандус",
+      "value": true
+    },
+    "good_place": {
+      "name": null,
+      "value": true
+    },
+    "preliminary_registration": {
+      "name": "предварительная запись",
+      "value": true
+    },
+    "car_park": {
+      "name": "парковка",
+      "value": true
+    },
+    "car_simulators": {
+      "name": "автосимуляторы",
+      "value": true
+    },
+    "gift_certificate": {
+      "name": "подарочный сертификат",
+      "value": true
+    },
+    "wheelchair_access": {
+      "name": "доступность входа на инвалидной коляске",
+      "value": [
+        "доступно"
+      ]
+    }
+  },
+  "prices": [
+    {
+      "category": "Аренда комнаты PS",
+      "items": [
+        {
+          "title": "Аренда Play Station",
+          "description": "Аренда комнаты PS5 с подпиской Deluxe Plus с 4 джойстиками",
+          "price_rub": 450,
+          "per": "1 ч"
+        }
+      ]
+    },
+    {
+      "category": "Пакет \"Утро\" 09:00 - 13:00",
+      "items": [
+        {
+          "title": "Аренда игровых компьютеров",
+          "description": "Аренда компьютера утром 9:00 - 13:00, в зале \"Стандарт\":\n\ni5 13400F, NVIDIA 5060 RTX, DDR4 32 gb, FHD 240 Hz, периферия Logitech, HyperX",
+          "price_rub": 200,
+          "per": "4 ч"
+        },
+        {
+          "title": "Аренда игровых компьютеров",
+          "description": "Аренда компьютера утром 9:00 - 13:00 в зале \"Стандарт-VIP\":\n\ni5 13400F, NVIDIA 5060Ti RTX, DDR4 32 gb, 2k 320 Hz, SSD 2 tb, периферия Logitech, HyperX",
+          "price_rub": 250,
+          "per": "4 ч"
+        }
+      ]
+    },
+    {
+      "category": "Аренда компьютера - 1 час день (пн-пт) зал \"Стандарт\"",
+      "items": [
+        {
+          "title": "Аренда игровых компьютеров",
+          "description": "Аренда компьютера днём в будни, в зале \"Стандарт\" - i5 13400F, NVIDIA 5060 RTX, DDR4 32 gb, FHD 240 Hz, периферия Logitech, HyperX",
+          "price_rub": 110,
+          "per": "1 ч"
+        }
+      ]
+    },
+    {
+      "category": "Аренда компьютера - 1 час день (пн-пт) зал \"VIP\"",
+      "items": [
+        {
+          "title": "Аренда игровых компьютеров",
+          "description": "Аренда компьютера днём в будни, в зале \"VIP\"- Ryzen 7500F, NVIDIA 5070 RTX, DDR5 32 gb, 2k 425 Hz, SSD 2 tb, периферия Asus ROG, Logitech.",
+          "price_rub": 190,
+          "per": "1 ч"
+        }
+      ]
+    },
+    {
+      "category": "Аренда компьютера - 1 час день (пн-пт) зал \"Стандарт-VIP\"",
+      "items": [
+        {
+          "title": "Аренда игровых компьютеров",
+          "description": "Аренда компьютера днём в будни, в зале \"Стандарт-VIP\" - i5 13400F, NVIDIA 5060Ti RTX, DDR4 32 gb, 2k 320 Hz, SSD 2 tb, периферия Logitech, HyperX",
+          "price_rub": 150,
+          "per": "1 ч"
+        }
+      ]
+    }
+  ],
+  "promoted_products_on_card": [
+    {
+      "title": "Стандарт: RTX5060+240гц+32гб+Intel (днём в будние дни)",
+      "price": "110 р."
+    },
+    {
+      "title": "Стандарт-VIP: RTX5060Ti+320гц/2k+32гб+Intel днём в будни",
+      "price": "150 р."
+    },
+    {
+      "title": "VIP: RTX5070+425гц/2k+32гб/DDR5+Ryzen днём в будни",
+      "price": "190 р."
+    },
+    {
+      "title": "PS5 + 4 геймпада + подписка Deluxe+ (комната на 4 чел.)",
+      "price": "450 р."
+    }
+  ],
+  "photos_on_card_total": 72,
+  "opened": "≈ апрель 2023 (первые отзывы 14.04.2023)",
+  "brand_history": [
+    {
+      "period": "2023-04 … 2024-02",
+      "name": "SavePoint",
+      "evidence": "ответы на отзывы «Спасибо за выбор SavePoint», t.me/savepoint_ceo, логотип SAVE POINT на двери и ресепшн"
+    },
+    {
+      "period": "с 2025-09-05",
+      "name": "Точка Сохранения",
+      "evidence": "загрузка нового логотипа в карточку; вывеска на фасаде (фото 2026-02)"
+    },
+    {
+      "period": "2026",
+      "name": "ТОЧКА / Точка Отрадное",
+      "evidence": "заставка на ПК, имя Telegram-аккаунта для брони"
+    }
+  ],
+  "management_contact_seen_in_replies": "https://t.me/savepoint_ceo (упоминался в 2023–2024)",
+  "extra_facts_from_reviews": {
+    "headsets_2023": {
+      "general_hall": "HyperX Cloud Stinger",
+      "vip": "HyperX Cloud Alpha S"
+    },
+    "keyboards": "общий зал — компактные; VIP — полноразмерные с numpad",
+    "daily_cleaning": "08:30–10:30 (в это время включён свет)",
+    "bonus_points": "бонусные баллы за покупку часов",
+    "club_accounts_games_seen": [
+      "Rust (с 2026-03)",
+      "Battlefield 6 (баннер 2026-02)"
+    ],
+    "min_seat_number_seen": "PC 18",
+    "nearby": [
+      "магазин",
+      "пиццерия"
+    ]
+  },
+  "photos_collected": {
+    "gallery": 72,
+    "reviews_extra": 4,
+    "owner": 26,
+    "pro_2023": 13
+  }
+}
